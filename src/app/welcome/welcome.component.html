@@ -1,0 +1,30 @@
+<div class="container bg-light py-3 px-3 mt-5">
+    <h1 class="display-5 fw-bold">
+        Welcome to Netflix quiz App
+    </h1>
+    <p class="col-md-8 fs-4">
+        This quiz contains 9 questions.Each Question carries 10 points.
+    </p>
+    <h4>Rules</h4>
+    <ol>
+        <li>Correct Answers give 10 points</li>
+        <li>Incorrect Answers deduct 10 points </li>
+        <li>You have total 2 minutes to complete Quiz </li>
+        <li>You can navigate between questions using forward/backward buttons</li>
+        <li>Once You attempt the question you cannot change it</li>
+        <li>Questions Attempted have Green background</li>
+        <li>Refreshing the page will reset the quiz </li>
+        <li>Quiz will automatically end at time out or if you attempt all the questions</li>
+    </ol>
+    
+    <h1 style="font-family: cursive;text-align: center;">All The Best !!</h1>
+    <div class="col-md-4 my-3 name">
+        <label for="" class="form-label">Enter Your Name: </label>
+        <input type="text" class="form-control" #name value="">
+    </div>
+    <button class="btn btn-primary btn-lg" type="submit" routerLink="/question" (click)="clicked(name.value)">Begin the quiz</button>
+
+<!-- comments for me there is no name class i will make it later -->
+
+
+</div>

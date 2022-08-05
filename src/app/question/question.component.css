@@ -1,0 +1,42 @@
+/*Here card is a bootstrap class*/
+.card{
+    max-width: 800px;
+    /* card should no be that big
+    to horizontally center the question pallete we auto margin horizontally 
+    */
+    margin:0 auto;
+    /*
+    So contents inside do not stick to border
+    */
+    padding: 10px;
+}
+li{
+    /*cursor pointer as we want user to click it 
+    it is not a link so it is not pointer by defualt
+    list syle none as we do not want bullets or numbers
+
+    margin 10px vertically and 0 horizontally so options do not stick
+    */
+    list-style: none;
+    cursor: pointer;
+    margin:10px 0;
+    /*as you add 1px border on hover so the space is made to adjust it whenever you hover 
+    for that also add border in actual li element without hover 
+    */
+    border: 1px solid grey;
+}
+
+li:hover{
+    /*as you add 1px border on hover so the space is made to adjust it whenever you hover 
+    for that also add border in actual li element without hover 
+    */
+    border: 1px solid yellow;
+}
+ol{
+    /* it is necessary as there is padding on list by default*/
+    padding: 0;
+}
+
+.visited{
+    background-color: rgb(174, 244, 174);
+}

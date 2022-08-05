@@ -1,0 +1,165 @@
+{
+    "questions": [{
+            "questionText": "Which of the following popular TV shows is NOT streamed on Netflix?",
+            "options": [{
+                    "text": "The Boys",
+                    "correct": true
+                },
+                {
+                    "text": "Money Heist"
+                },
+                {
+                    "text": "You"
+                },
+                {
+                    "text": "Scam 1992"
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": " In the Netflix series “Money Heist”, the main characters are named after what",
+            "options": [{
+                    "text": "People"
+                },
+                {
+                    "text": "Flowers"
+                },
+                {
+                    "text": "Politicians"
+                },
+                {
+                    "text": "Cities",
+                    "correct": true
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "What is the color of Netflix Logo",
+            "options": [{
+                    "text": "Black"
+                },
+                {
+                    "text": "Red",
+                    "correct": true
+                },
+                {
+                    "text": "White"
+                },
+                {
+                    "text": "Blue"
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "Which movie genre is the series “Rick and Morty”",
+            "options": [{
+                    "text": "Drama"
+                },
+                {
+                    "text": "Science fiction",
+                    "correct": true
+                },
+                {
+                    "text": "Thriller"
+                },
+                {
+                    "text": "Survival"
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "“The Crown” is the first-ever Netflix series to win which prestigious award for the best drama",
+            "options": [{
+                    "text": "Emmy",
+                    "correct": true
+                },
+                {
+                    "text": "Grammy"
+                },
+                {
+                    "text": "Golden Globe"
+                },
+                {
+                    "text": "Oscar"
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "Who founded netflix",
+            "options": [{
+                    "text": "Parag Agrawal"
+                },
+                {
+                    "text": "John Martin"
+                },
+                {
+                    "text": "Elon Musk"
+                },
+                {
+                    "text": "Reed Hastings and Marc Randolph",
+                    "correct": true
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "Which is a Netflix Interactive Movie",
+            "options": [{
+                    "text": "Jason Bourne"
+                },
+                {
+                    "text": "Bandersnatch Black Mirror",
+                    "correct": true
+                },
+                {
+                    "text": "Squid Game"
+                },
+                {
+                    "text": "Stranger Things"
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "How many subscribers worldwide had Netflix in March 2022",
+            "options": [{
+                    "text": "221.6 million",
+                    "correct": true
+                },
+                {
+                    "text": "22.1 million"
+                },
+                {
+                    "text": "322.2 million"
+                },
+                {
+                    "text": "650,450,000"
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "When was Netflix founded",
+            "options": [{
+                    "text": "1997",
+                    "correct": true
+                },
+                {
+                    "text": "1990"
+                },
+                {
+                    "text": "2005"
+                },
+                {
+                    "text": "2010"
+                }
+            ],
+            "explanation": ""
+        }
+    ]
+}
