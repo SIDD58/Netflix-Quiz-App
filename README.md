@@ -7,7 +7,8 @@
 
 
 ## Demo
-insert gif
+
+![quiz](https://user-images.githubusercontent.com/42698210/182989605-22c8b0d9-d4eb-42b6-bdf3-8dc4d59810a7.gif)
 
 
 ## Introduction
