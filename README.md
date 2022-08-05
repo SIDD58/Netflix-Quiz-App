@@ -46,6 +46,7 @@ ng serve -o
 1. It consist of Input field and start Quiz Button to start the quiz 
 ### Quiz Page 
 1. You can move between questions using forward and backward navigation buttons.Buttons get disabled once you reach last or first question.
+1. You lose 10 points for incorrect answers and gain 10 points for correct answers 
 1. Questions that you have attempted are shown in green.
 1. There is a refresh button that resets the Whole quiz. 
 1. A timer of 2 minutes gets started as soon as you start the quiz.
